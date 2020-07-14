@@ -1,4 +1,32 @@
-### Hi there 👋
+<p align="center">
+    <img src="https://github.com/AndreaRicchi/AndreaRicchi/blob/master/icons/me.jpg?raw=true">
+</p>
+
+### Hi there, Andrea here 👋
+
+I'm a software developer specialized in C/C++ languages and Qt framework. My goal is to increase my knowledge in these languages and learn new technologies.
+
+- I'm currently working as embedded software developer in Prague.
+- I'm currently learning the Rust language.
+- I'm try to be an active open-source and developer communities user.
+
+<details>
+  <summary>⚡ Fun fact:</summary>
+
+- I'm a passionate PC videogamer.
+- In mean time, I play tennis, whatch film and explore the world.
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=andrearicchi&show_icons=true)
+</details>
+
+<hr>
+<p align="center">
+📫 Reach me on:
+  <p align="center">
+    <a href="https://www.linkedin.com/in/andrea-ricchi/" alt="LinkedIn"><img src="https://github.com/AndreaRicchi/AndreaRicchi/blob/master/icons/linkedin-32.jpg?raw=true"></a>
+    <a href="https://github.com/AndreaRicchi" alt="GitHub"><img src="https://github.com/AndreaRicchi/AndreaRicchi/blob/master/icons/github-32.jpg?raw=true"></a>
+  </p>
+</p>
 
 <!--
 **AndreaRicchi/AndreaRicchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
