@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="https://github.com/AndreaRicchi/AndreaRicchi/blob/master/icons/me.jpg?raw=true">
-</p>
-
 ### Hi there, Andrea here 👋
 
 I'm a software developer specialized in C/C++ languages and Qt framework. My goal is to increase my knowledge in these languages and learn new technologies.
