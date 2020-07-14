@@ -6,15 +6,15 @@
 
 I'm a software developer specialized in C/C++ languages and Qt framework. My goal is to increase my knowledge in these languages and learn new technologies.
 
-- I'm currently working as embedded software developer in Prague.
+- I'm currently working as an embedded software developer in Prague.
 - I'm currently learning the Rust language.
-- I'm try to be an active open-source and developer communities user.
+- I'm trying to be an active open-source and developer community user.
 
 <details>
   <summary>⚡ Fun fact:</summary>
 
 - I'm a passionate PC videogamer.
-- In mean time, I play tennis, whatch film and explore the world.
+- In my free time, I play tennis, watch films and explore the world.
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=andrearicchi&show_icons=true)
 </details>
