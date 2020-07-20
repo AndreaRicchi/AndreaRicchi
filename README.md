@@ -6,13 +6,14 @@ I'm a software developer specialized in C/C++ languages and Qt framework. My goa
 - I'm currently learning the Rust language.
 - I'm trying to be an active open-source and developer community user.
 
-<details>
-  <summary>⚡ Fun fact:</summary>
+![My github stats](https://github-readme-stats.vercel.app/api?username=andrearicchi&show_icons=true)
 
+
+<details>
+  <summary>⚡ About me:</summary>
+  
 - I'm a passionate PC videogamer.
 - In my free time, I play tennis, watch films and explore the world.
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=andrearicchi&show_icons=true)
 </details>
 
 <hr>
