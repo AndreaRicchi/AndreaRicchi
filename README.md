@@ -21,6 +21,7 @@ I'm a software developer specialized in C/C++ languages and Qt framework. My goa
   <p align="center">
     <a href="https://www.linkedin.com/in/andrea-ricchi/" alt="LinkedIn"><img src="https://github.com/AndreaRicchi/AndreaRicchi/blob/master/icons/linkedin-32.jpg?raw=true"></a>
     <a href="https://github.com/AndreaRicchi" alt="GitHub"><img src="https://github.com/AndreaRicchi/AndreaRicchi/blob/master/icons/github-32.jpg?raw=true"></a>
+    <a href="https://stackoverflow.com/users/12090424/andrea-ricchi" alt="StackOverflow"><img src="https://github.com/AndreaRicchi/AndreaRicchi/blob/master/icons/stackoverflow-32.jpg?raw=true"></a>
   </p>
 </p>
 
