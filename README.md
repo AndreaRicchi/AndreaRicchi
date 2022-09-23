@@ -13,7 +13,7 @@ I'm a software developer specialized in C/C++ languages and Qt framework. My goa
   <summary>⚡ About me:</summary>
   
 - I'm a passionate PC videogamer.
-- In my free time, I play tennis, watch films and explore the world.
+- In my free time, I play tennis, watch movies and explore the world.
 </details>
 
 <hr>
