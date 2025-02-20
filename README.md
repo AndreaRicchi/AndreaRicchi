@@ -1,6 +1,6 @@
 ### Hi there, Andrea here 👋
 
-I'm a software developer specialized in C/C++ languages and Qt framework. My goal is to increase my knowledge in these languages and learn new technologies.
+I'm a software developer specializing in C/C++, the Qt framework, and Flutter. I'm passionate about deepening my expertise in these technologies while continuously exploring and learning new advancements in the field.
 
 - I'm currently working as an embedded software developer in Prague.
 - I'm currently learning the Rust language.
