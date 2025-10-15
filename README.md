@@ -8,7 +8,7 @@ I am a dedicated embedded developer with a strong foundation in systems programm
 
 <p align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=andrearicchi&show_icons=true" alt="My github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=andrearicchi&count_private=true&show_icons=true&theme=tokyonight" alt="My github stats">
 </p>
 
 ---
