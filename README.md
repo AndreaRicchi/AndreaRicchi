@@ -1,17 +1,72 @@
-### Hi there, Andrea here 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7971e,100:ffd200&height=240&section=header&text=Andrea&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Embedded%20Engineer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%"/>
+</div>
 
-I am a dedicated embedded developer with a strong foundation in systems programming and a knack for solving complex problems. My expertise lies in creating robust and efficient software for resource-constrained devices.
+<div align="center">
 
-🔗 **Check out my portfolio:** [andrearicchi.github.io](https://andrearicchi.github.io/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=f97316&center=true&vCenter=true&width=600&lines=Open%20Source%20Enthusiast;Conferences%20Speaker)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-ricchi/) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://andrearicchi.github.io/)
+
+</div>
+
+### About
+
+I am a dedicated embedded developer with a strong foundation in systems programming and a knack for solving complex problems. My expertise lies in creating robust and efficient software.
+
+⌖ **Location** &nbsp; Italy <br/>
+⌗ **Experience** &nbsp; 5+ years at Amarula Solutions <br/>
+⟳ **Learning** &nbsp; Rust
 
 ---
 
-<p align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=andrearicchi&count_private=true&show_icons=true&theme=tokyonight" alt="My github stats">
-</p>
+### Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=rust,dart,bash&theme=dark" alt="Languages"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=flutter,qt&theme=dark" alt="Frontend"/>
+
+**DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=docker,git,linux,vscode&theme=dark" alt="DevOps & Cloud"/>
 
 ---
 
-📫 **Let’s connect:**
-[Portfolio](https://andrearicchi.github.io/) • [GitHub](https://github.com/andrearicchi)
+### Languages
+
+🌐 **Italian** &nbsp; ![Native](https://img.shields.io/badge/-Native-brightgreen?style=flat-square) <br/>
+🇬🇧 **English** &nbsp; ![Advanced](https://img.shields.io/badge/-Advanced-success?style=flat-square) <br/>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AndreaRicchi&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaRicchi&layout=compact&langs_count=8&theme=nord&hide_border=true"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AndreaRicchi&theme=nord&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge">ReadmeForge</a> &nbsp;·&nbsp; <a href="https://github.com/AndreaRicchi">github.com/AndreaRicchi</a></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7971e,100:ffd200&height=120&section=footer" width="100%"/>
+
+</div>
