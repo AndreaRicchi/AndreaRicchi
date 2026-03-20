@@ -24,7 +24,7 @@ I am a dedicated embedded developer with a strong foundation in systems programm
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=rust,dart,bash&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=rust,cpp,dart,bash&theme=dark" alt="Languages"/>
 
 **Frontend**
 
@@ -32,7 +32,7 @@ I am a dedicated embedded developer with a strong foundation in systems programm
 
 **DevOps & Cloud**
 
-<img src="https://skillicons.dev/icons?i=docker,git,linux,vscode&theme=dark" alt="DevOps & Cloud"/>
+<img src="https://skillicons.dev/icons?i=docker,git,linux,vscode,cmake&theme=dark" alt="DevOps & Cloud"/>
 
 ---
 
