@@ -47,7 +47,7 @@ I am a dedicated embedded developer with a strong foundation in systems programm
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AndreaRicchi&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaRicchi&layout=compact&langs_count=8&theme=nord&hide_border=true"/>
+<img height="165" src="profile/stats.svg" alt="GitHub stats"/> <img height="165" src="profile/top-langs.svg" alt="Top languages"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AndreaRicchi&theme=nord&hide_border=true)](https://git.io/streak-stats)
 
